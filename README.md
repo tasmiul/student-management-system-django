@@ -42,7 +42,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Role-based editing: students update limited fields; admins control everything
 - Status toggle (suspend / activate) with audit trail
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/student-list.png)
 
 ### 📚 Academics
 - Manage **Departments**, **Programs**, **Courses**, and **Faculty**
@@ -50,7 +50,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Course-faculty assignment with instructor details
 - Active/inactive status for all entities
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/academics.png)
 
 ### 📋 Attendance Tracking
 - Create attendance **sessions** by course, department, program, semester, and time slot
@@ -61,7 +61,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Student view with per-course attendance percentage
 - Export to **CSV**, **Excel**, and **PDF**
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/attendance-mark.png)
 
 ### 📝 Gradebook & Results
 - Create exams (Quiz, Assignment, Midterm, Final) linked to courses with **total marks**
@@ -71,7 +71,8 @@ A comprehensive, role-based **Student Information Management System** built with
 - Grading scale: 4.00 (A+ = 80%, A = 75%, … F < 40%)
 - Export to **CSV**, **Excel**, and printable **Transcript PDF**
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/grade-entry.png)
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/student-results.png)
 
 ### 📦 Course Registration
 - Define **registration windows** with start/end dates and active toggles
@@ -80,7 +81,8 @@ A comprehensive, role-based **Student Information Management System** built with
 - Admin approval workflow — approved registrations auto-create attendance enrollments
 - Students can drop courses within active windows
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/registration-admin.png)
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/registration-student.png)
 
 ### 💰 Fees & Payments
 - Define **fee structures** by fee type (Tuition, Registration, Lab, Library, Examination), academic year, and semester
@@ -89,7 +91,8 @@ A comprehensive, role-based **Student Information Management System** built with
 - Student view: personal fee summary with total expected, paid, and due amount
 - Aggregate collection total for administrators
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/fees-admin.png)
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/fees-student.png)
 
 ### 📄 Document Management
 - Upload documents by category: Calendar, Enrollment Certificate, Transcript, Notice, Circular, ID Card
@@ -105,7 +108,8 @@ A comprehensive, role-based **Student Information Management System** built with
 - Threaded replies with author tracking
 - Admins see all tickets; students see only their own
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/helpdesk.png)
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/helpdesk-detail.png)
 
 ### 📊 Admin Dashboard
 - Real-time stats: total/active/inactive/graduated/suspended students
@@ -113,14 +117,14 @@ A comprehensive, role-based **Student Information Management System** built with
 - Quick-action links to all modules
 - Recent registrations and profile updates
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/admin-dashboard.png)
 
 ### 👤 Student Dashboard
 - Welcome message with profile completion percentage
 - Profile summary (ID, registration number, department, program)
 - Recent activity log
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots/student-dashboard.png)
 
 ### 📈 Audit Trail
 - Automatic logging of login/logout events via signals
@@ -134,24 +138,7 @@ A comprehensive, role-based **Student Information Management System** built with
 ---
 
 ## Screenshots
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
-
-
+https://github.com/tasmiul/student-management-system-django/tree/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots
 ---
 
 ## Tech Stack
