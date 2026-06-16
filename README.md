@@ -32,7 +32,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Forced password change on first login
 - Full password reset flow (email-based)
 
-![image_alt]()
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/1e58df8c10b64696867a849e82a6f4363f63afc4/Screenshots/login.png)
 
 ### 👥 Student Management
 - Full **CRUD** for student profiles with auto-creation of login accounts
@@ -134,32 +134,23 @@ A comprehensive, role-based **Student Information Management System** built with
 ---
 
 ## Screenshots
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
 
-> *Screenshots will be added here. Below are the recommended screenshots to capture.*
-
-| # | Screenshot | Description |
-|---|-----------|-------------|
-| 1 | `![image_alt](https://github.com/tasmiul/student-management-system-django/blob/a46bd0ed1d2b141e761ab38dae73e97fb30dc72f/Screenshots/login.png)` | [Login page with Remember Me checkbox and Forgot Password link] |
-| 2 | `screenshots/admin-dashboard.png` | [Admin dashboard with stats cards, charts, and quick actions] |
-| 3 | `screenshots/student-dashboard.png` | [Student dashboard with profile summary and activity log] |
-| 4 | `screenshots/student-list.png` | [Student list with search, filters, and pagination] |
-| 5 | `screenshots/student-create.png` | [Create student form with all fields] |
-| 6 | `screenshots/student-detail.png` | [Student detail/profile view] |
-| 7 | `screenshots/academics.png` | [Academics page showing departments, programs, courses, faculty] |
-| 8 | `screenshots/attendance-mark.png` | [Attendance marking page with student status buttons] |
-| 9 | `screenshots/attendance-dashboard.png` | [Attendance dashboard with low-attendance alerts and trends] |
-| 10 | `screenshots/grade-entry.png` | [Grade entry page with student marks input table] |
-| 11 | `screenshots/student-results.png` | [Student results with GPA/CGPA — admins use the student selector at `/gradebook/my-results/`; students see their own] |
-| 12 | `screenshots/registration-admin.png` | [Registration admin page with windows, offerings, approvals] |
-| 13 | `screenshots/registration-student.png` | [Student course registration page] |
-| 14 | `screenshots/fees-admin.png` | [Fees admin with per-student lookup and breakdown] |
-| 15 | `screenshots/fees-student.png` | [Student fee summary with expected, paid, and outstanding] |
-| 16 | `screenshots/documents.png` | [Document management page] |
-| 17 | `screenshots/announcements.png` | [Announcements page] |
-| 18 | `screenshots/helpdesk.png` | [Helpdesk ticket list] |
-| 19 | `screenshots/helpdesk-detail.png` | [Ticket detail with reply thread] |
-| 20 | `screenshots/audit-log.png` | [Audit log viewer] |
-| 21 | `screenshots/transcript.png` | [Transcript PDF view] |
 
 ---
 
