@@ -32,7 +32,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Forced password change on first login
 - Full password reset flow (email-based)
 
-[Screenshot Placeholder: [Login page with Remember Me checkbox]]
+![image_alt]()
 
 ### 👥 Student Management
 - Full **CRUD** for student profiles with auto-creation of login accounts
@@ -42,7 +42,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Role-based editing: students update limited fields; admins control everything
 - Status toggle (suspend / activate) with audit trail
 
-[Screenshot Placeholder: [Student list page with search, filters, and pagination]]
+![image_alt]()
 
 ### 📚 Academics
 - Manage **Departments**, **Programs**, **Courses**, and **Faculty**
@@ -50,7 +50,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Course-faculty assignment with instructor details
 - Active/inactive status for all entities
 
-[Screenshot Placeholder: [Academics index page showing departments, programs, courses, faculty]]
+![image_alt]()
 
 ### 📋 Attendance Tracking
 - Create attendance **sessions** by course, department, program, semester, and time slot
@@ -61,7 +61,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Student view with per-course attendance percentage
 - Export to **CSV**, **Excel**, and **PDF**
 
-[Screenshot Placeholder: [Attendance marking page showing student list with status buttons]]
+![image_alt]()
 
 ### 📝 Gradebook & Results
 - Create exams (Quiz, Assignment, Midterm, Final) linked to courses with **total marks**
@@ -71,7 +71,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Grading scale: 4.00 (A+ = 80%, A = 75%, … F < 40%)
 - Export to **CSV**, **Excel**, and printable **Transcript PDF**
 
-[Screenshot Placeholder: [Grade entry page showing enrolled students with marks input fields]]
+![image_alt]()
 
 ### 📦 Course Registration
 - Define **registration windows** with start/end dates and active toggles
@@ -80,7 +80,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Admin approval workflow — approved registrations auto-create attendance enrollments
 - Students can drop courses within active windows
 
-[Screenshot Placeholder: [Registration admin page with windows, offerings, and pending approvals]]
+![image_alt]()
 
 ### 💰 Fees & Payments
 - Define **fee structures** by fee type (Tuition, Registration, Lab, Library, Examination), academic year, and semester
@@ -89,7 +89,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Student view: personal fee summary with total expected, paid, and due amount
 - Aggregate collection total for administrators
 
-[Screenshot Placeholder: [Per-student fee breakdown showing expected fees, payments, and outstanding balance]]
+![image_alt]()
 
 ### 📄 Document Management
 - Upload documents by category: Calendar, Enrollment Certificate, Transcript, Notice, Circular, ID Card
@@ -105,7 +105,7 @@ A comprehensive, role-based **Student Information Management System** built with
 - Threaded replies with author tracking
 - Admins see all tickets; students see only their own
 
-[Screenshot Placeholder: [Helpdesk ticket detail page showing conversation thread]]
+![image_alt]()
 
 ### 📊 Admin Dashboard
 - Real-time stats: total/active/inactive/graduated/suspended students
@@ -113,14 +113,14 @@ A comprehensive, role-based **Student Information Management System** built with
 - Quick-action links to all modules
 - Recent registrations and profile updates
 
-[Screenshot Placeholder: [Admin dashboard with stats cards and charts]]
+![image_alt]()
 
 ### 👤 Student Dashboard
 - Welcome message with profile completion percentage
 - Profile summary (ID, registration number, department, program)
 - Recent activity log
 
-[Screenshot Placeholder: [Student dashboard showing profile summary and activity]]
+![image_alt]()
 
 ### 📈 Audit Trail
 - Automatic logging of login/logout events via signals
@@ -139,7 +139,7 @@ A comprehensive, role-based **Student Information Management System** built with
 
 | # | Screenshot | Description |
 |---|-----------|-------------|
-| 1 | `screenshots/login.png` | [Login page with Remember Me checkbox and Forgot Password link] |
+| 1 | `![image_alt](https://github.com/tasmiul/student-management-system-django/blob/a46bd0ed1d2b141e761ab38dae73e97fb30dc72f/Screenshots/login.png)` | [Login page with Remember Me checkbox and Forgot Password link] |
 | 2 | `screenshots/admin-dashboard.png` | [Admin dashboard with stats cards, charts, and quick actions] |
 | 3 | `screenshots/student-dashboard.png` | [Student dashboard with profile summary and activity log] |
 | 4 | `screenshots/student-list.png` | [Student list with search, filters, and pagination] |
