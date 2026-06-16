@@ -5,6 +5,8 @@ A comprehensive, role-based **Student Information Management System** built with
 > **Project Status:** Active Development  
 > **License:** MIT
 
+![image_alt](https://github.com/tasmiul/student-management-system-django/blob/53c7aeb220dd39c37cdefab03512833c4bb7074f/Screenshots/HomePage.png)
+
 ---
 
 ## Table of Contents
