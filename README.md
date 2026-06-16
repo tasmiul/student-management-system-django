@@ -180,7 +180,6 @@ School Management System/
 ├── static/                  # Static assets
 ├── media/                   # User-uploaded files (profile photos, documents)
 ├── deploy/                  # Deployment configs (Gunicorn, Nginx)
-├── ERD.md                   # Entity-Relationship Diagram (Mermaid)
 ├── requirements.txt         # Python dependencies
 └── manage.py                # Django management script
 ```
