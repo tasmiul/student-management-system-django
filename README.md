@@ -138,7 +138,8 @@ A comprehensive, role-based **Student Information Management System** built with
 ---
 
 ## Screenshots
-https://github.com/tasmiul/student-management-system-django/tree/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots
+[Screenshots](https://github.com/tasmiul/student-management-system-django/tree/354391429cc1bc739614666a174c2f81d4aa9977/Screenshots)
+
 ---
 
 ## Tech Stack
